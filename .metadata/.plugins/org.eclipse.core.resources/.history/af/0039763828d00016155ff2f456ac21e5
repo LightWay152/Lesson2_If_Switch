@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Min 2 Number</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_number_a">Input number a here</string>
+    <string name="input_number_b">Input number b here</string>
+    <string name="compare">Compare</string>
+
+</resources>
