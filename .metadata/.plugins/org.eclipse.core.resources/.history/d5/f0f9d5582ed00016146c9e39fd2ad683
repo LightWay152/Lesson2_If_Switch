@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Min 2 Number</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input_note">Input integer or float number at 2 space below:</string>
+    <string name="input_number_a">Input number A here</string>
+
+</resources>
