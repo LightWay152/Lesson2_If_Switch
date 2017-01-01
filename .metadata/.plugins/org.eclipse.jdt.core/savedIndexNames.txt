@@ -1,4 +1,0 @@
-INDEX VERSION 1.127+D:\WorkSpace\Eclipse\AndroidBasics\Lesson2_If_Switch\.metadata\.plugins\org.eclipse.jdt.core
-214950404.index
-3273157634.index
-1489303763.index
